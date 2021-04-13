@@ -51,5 +51,8 @@
     font-family: inter-bold;
 }
 #whatiptv-container-screen{
-    padding-top: 25px;
+    padding-top: 55px;
+}
+#whatiptv-container{
+    padding-bottom: 0px;
 }

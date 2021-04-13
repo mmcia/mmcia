@@ -16,14 +16,16 @@
 }
 
 #downloads-container-screen{
-    padding-top: 25px;
+    padding-top: 55px;
 }
 
 .iconcard{
+    display: table;
     width: 52px;
     float: left;
 }
 #icondownload{
+    display: table;
     float: right;
     height: 50px;
 }

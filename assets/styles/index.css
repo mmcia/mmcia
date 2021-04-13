@@ -63,20 +63,20 @@ nav{
     height: auto;
 
 }
-#aboutme{
-    background: #0000ff;
-    float: left;
-}
-
 #gridchannel{
     background: #fff000;
     height: auto;
     float: left;
 }
-
+#util{
+    background: #fff000;
+    height: auto;
+    float: left;
+}
 #whatiptv{
     background: #333333;
     float: left;
+    padding-bottom: 55px;
 }
 .container-screen{
     position: relative;
@@ -146,6 +146,6 @@ nav{
 #downloads {
     background: #333333;
     float: left;
-    padding-bottom: 70px;
+    padding-bottom: 55px;
     height: auto;
 }
