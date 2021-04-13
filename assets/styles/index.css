@@ -143,3 +143,9 @@ nav{
     bottom: 20px;
     right: 20px;
 }
+#downloads {
+    background: #333333;
+    float: left;
+    padding-bottom: 70px;
+    height: auto;
+}
